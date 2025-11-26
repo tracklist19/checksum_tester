@@ -14,5 +14,5 @@ checksum_tester
 		 	 herausstellt -> diese können nur optischen mithilfe der log-files identifiziert werden) 
 
 -> geignet für den Abgleich zweier Datensätze mit stark ähnlichem Verzeichnis-Baum 
+		(bspw. AusgangsDatensätze mit wiederhergestellten Daten, Backups etc.) 
 
-	(bspw. AusgangsDatensätze mit wiederhergestellten Daten, Backups etc.) 
