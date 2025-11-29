@@ -10,12 +10,9 @@ checksum_tester
 
 -> legt log-files an zu veränderten oder korrupten Files (unterschiedliche Hash-Werte derselben Datei), 
 		     		 zu gelöschten, verschobenen oder umbenannten Files (nicht-existent in Verzeichnis_2) 
-		 		 und zu neu-erstellten Files (ohne Äquivalent im anderen Datensatz) 
+		 		 							und zu neu-erstellten Files (nicht-existent in Verzeichnis_1) 
 			(wobei zwischen den letzten beiden Gruppen Überschneidungen entstehen können, die das Programm nicht sauber 
-		 	 herausstellt -> diese können nur optischen mithilfe der log-files identifiziert werden) 
+		 	 herausstellt -> diese können bisher nur optischen mithilfe der log-files identifiziert werden) 
 
 -> allgemein geeignet für den Abgleich zweier Datensätze mit stark ähnlichem Verzeichnis-Baum 
 		(bspw. Vergleich AusgangsDatensätze mit wiederhergestellten Daten, Backups etc.) 
-
-
-
