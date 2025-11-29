@@ -4,7 +4,7 @@ checksum_tester
 
 -> durchsucht alle Unter-Verzeichnisse von Verzeichnis_1 und vergleicht dessen Dateien (inkl. Verknüpfungen) mit den 
 			       				Dateien von Verzeichnis_2 anhand ihrer Hash-Werte (SHA-256), 
-					zusätzlich danach: Gegen-Vergleich um neu-erstellte, verschobene oder umbenannte in Verzeichnis_2 zu identifizieren  
+				zusätzlich danach: Gegen-Vergleich um neu-erstellte, verschobene oder umbenannte in Verzeichnis_2 zu identifizieren  
 
 -> zeigt Summe aller identischen Files (mit identischen Hash-Werten) gegenüber der GesamtAnzahl aller Files 
 
@@ -16,4 +16,5 @@ checksum_tester
 
 -> allgemein geeignet für den Abgleich zweier Datensätze mit stark ähnlichem Verzeichnis-Baum 
 		(bspw. Vergleich AusgangsDatensätze mit wiederhergestellten Daten, Backups etc.) 
+
 
