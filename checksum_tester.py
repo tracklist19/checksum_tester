@@ -1,5 +1,5 @@
 
-### readme.txt siehe _nfo_checksum_tester.txt 
+### readme.txt siehe _nfo_checksum_tester.txt ###############################################################rausnehmen
 ### funktioniert solang die Größe der zu hashenden File  
 	## nicht die Größe des verfügbaren/freien ArbeitsSpeichers [RAM] übersteigt 
 	## sonst throwt Python MemoryError oder Programm stürzt ab [OOM-Kill] 
