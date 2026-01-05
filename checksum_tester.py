@@ -1,5 +1,3 @@
-
-### readme.txt siehe _nfo_checksum_tester.txt ###############################################################rausnehmen
 ### funktioniert solang die Größe der zu hashenden File  
 	## nicht die Größe des verfügbaren/freien ArbeitsSpeichers [RAM] übersteigt 
 	## sonst throwt Python MemoryError oder Programm stürzt ab [OOM-Kill] 
@@ -77,7 +75,7 @@ with open(log_path + '\log_DeletedMovedRenamedFiles.txt', "a", encoding="utf-8")
 
 
 
-###  CHECK NEU-ERSTELLTE (/VERSCHOBENE/RENAMED)							# auf trg
+###  CHECK NEU-ERSTELLTE (/VERSCHOBENE/RENAMED)							# in trg
 
 print("\n\nCHECK latest/recoveredData [trg] AGAINST lastBackup [src]\n")
 
